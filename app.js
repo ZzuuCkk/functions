@@ -22,10 +22,9 @@ console.log(randomNumber(100));
 
 // N4
 
-function lengthOfString(str =""){
-    let strLength = lengthOfString.length
- return strLength;
+function getLength(str =""){
+    
+ return str.length;
 }
-console.log(lengthOfString("zura"))
-
+console.log(getLength('aaasus'));
 
